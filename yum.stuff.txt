@@ -1,0 +1,17 @@
+asciidoctor
+autoconf
+chromium
+cmake*
+devtoolset-8-gcc*
+epel-release
+jemalloc-devel
+json-c-devel
+keyutils-devel
+keyutils-libs-devel
+kmod-devel.x86_64
+libudev-devel
+libuuid-devel
+openssl-devel
+openssl-libs
+pandoc
+redhat-lsb-core
